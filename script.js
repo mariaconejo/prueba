@@ -15,7 +15,7 @@
   Selecciona y console.log el <h3> que dice "Esto
   es una lista"
 */
-
+  console.log('hola mundo');
 /*
   EJERCICIO B: --------------------------------------------
   
